@@ -2,18 +2,28 @@
 
 ## Introduction
 
-The aim of this project was to create a web based 'High or Low' game. We needed it to solve three letter anagrams, but if possible more.
+The aim of this project is to develop a simple 'High or Low' game.
 
-## Mechanics
+## High level Description
 
-- Solves Anagrams.
+Create a web based 'High or Low' game. A number is displayed between 1 and 13. You must decide whether the next number is higher or lower than the last. You gain money if you answer correctly, and lose if you run out of money.
 
-- Has built in library.
+### High level functional specifications
 
-## Gameplay
+- 
 
-## Difficulties
-  
+### High level non-functional specifications
+
+
+
+### Application requirements
+### Mock-ups
+### Storyboards
+### Flowcharts components
+### High-level user stories
+### Research
+### Teamwork
+## Troubleshooting
 
 
 
